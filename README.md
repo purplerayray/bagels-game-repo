@@ -17,7 +17,7 @@
 ---
 
 ## Description
-Bagels is a deductive logic game by Al Sweigart al@inventwithpython.com. It is a simple number guessing game. 
+Bagels is a deductive logic game by Al Sweigart. It is a simple number guessing game. 
 
 ### Features
 
