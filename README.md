@@ -10,6 +10,7 @@
 
 - [Description](#description)
 - [How To Use](#how-to-use)
+- [About Bagels](#about-bagels)
 - [References](#references)
 - [License](#license)
 - [Author Info](#author-info)
@@ -46,6 +47,11 @@ Run "gui.py" to start the game.
 #### Installations
 
 No installations.
+
+---
+
+## About Bagels
+![Bagels Screenshot](about-bagels.png)
 
 ---
 
